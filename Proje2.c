@@ -1,3 +1,4 @@
+/*Yakın zaman içinde küçük düzenlemeler gelicektir.
 /*Yusuf YALÇIN 
 18120205032 
 Proje2
