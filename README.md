@@ -1,4 +1,7 @@
 # Gas_Station
+
+A project that solves a gas stations problem given in C language with 3 diéerent algorithms.
+
 Bu kod içinde problemin brute force,greedy ve divide and conquer algoritmaları ile çözümü gösterilmiştir.
 Problem Tanımı:
 Bir araç bir menzile doğru gidecektir ve bir müddet sonra benzin alması gerekecektir. Yol üzerinde
