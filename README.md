@@ -1,6 +1,6 @@
 # Gas_Station
 
-A project that solves a gas stations problem given in C language with 3 diéerent algorithms.
+A project that solves a gas stations problem given in C language with 3 different algorithms.
 
 Bu kod içinde problemin brute force,greedy ve divide and conquer algoritmaları ile çözümü gösterilmiştir.
 Problem Tanımı:
